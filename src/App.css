@@ -1,0 +1,64 @@
+.head{
+  margin-top: 0cm;
+}
+
+.title{
+  color:white;
+  text-align: center;
+  font-size:2cm;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:200;
+  font-style: italic;
+}
+
+.home{
+  margin-top: 1.5cm;
+  font-size: 0.5cm;
+  font-weight: bold;
+}
+
+.intro{
+  margin-top: 1.5cm;
+  font-size: 0.5cm;
+  font-weight: bold;
+}
+
+.contributor{
+  margin-top: 1.5cm;
+  font-size: 0.5cm;
+  font-weight: bold;
+}
+
+.login{
+  margin-top: 1.5cm;
+  font-size: 0.5cm;
+  font-weight: bold;
+}
+.link1{
+ 
+  font-size: 0.5cm;
+  font-weight: bold;
+  color: white;
+}
+
+.link2{
+  
+  font-size: 0.5cm;
+  font-weight: bold;
+  color: white;
+}
+
+.link3{
+  
+  font-size: 0.5cm;
+  font-weight: bold;
+  color: white;
+}
+
+.link4{
+  
+  font-size: 0.5cm;
+  font-weight: bold;
+  color: white
+}
+
