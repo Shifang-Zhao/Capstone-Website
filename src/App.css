@@ -1,3 +1,8 @@
+.box{
+
+  background:linear-gradient(rgba(0, 217, 250, 0.5),transparent);
+  background-color:rgb(61, 97, 206)
+}
 .head{
   margin-top: 0cm;
 }
@@ -61,4 +66,27 @@
   font-weight: bold;
   color: white
 }
+
+.icon{
+  filter: brightness(0) invert(1);
+}
+
+.logo1{
+  filter: brightness(0) invert(1); 
+}
+
+.logo2{
+  filter: brightness(0) invert(1);
+}
+
+.logo3{
+  filter: brightness(0) invert(1);
+}
+
+.logo4{
+  filter: brightness(0) invert(1);
+}
+
+
+
 
